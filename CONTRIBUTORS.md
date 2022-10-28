@@ -190,6 +190,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Software Engineer
 - GitHub: [Alexander Voigt](https://github.com/alexandvoigt)
 
+#### Name: [Vansh Sardana](https://github.com/vansh15)
+- Place: india
+- Bio: Software Developer
+- GitHub: [Vansh15](https://github.com/vansh15)
+
 #### Name: [Alina Christenbury](https://github.com/AlinaWithAFace)
 - Place: Newark, DE
 - Bio: Student studying Computer Science at the University of Delaware, aspiring VR dev and/or gamedev
